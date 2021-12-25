@@ -3,6 +3,7 @@
   -   cat-like
   -   anything else
 
-1 Simple logic
-  2 reasoning
-  3 evidence 
+1. Item 1
+  1. Item 1.1
+  2. Item 1.2
+2. Item 2
