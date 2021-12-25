@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Start to learn **Python** for ML
+
+_This is just to play_
+
+*Hellow world*
+
+_Is it **bold**?_
